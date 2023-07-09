@@ -1,0 +1,40 @@
+[
+	{
+		"title": "Card 1",
+		"description": "This is the first card. long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text",
+		"tags": [
+			"tag1",
+			"tag2"
+		],
+		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
+		"imgAlt": "some bird I found on Google",
+		"buttons": [
+			{
+				"label": "Button 1",
+				"href": "https://google.com"
+			},
+			{
+				"label": "Button 2",
+				"href": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+			}
+		],
+		"bg": "#333333"
+	},
+	{
+		"title": "Card 2",
+		"description": "This is the second card - long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text",
+		"tags": [
+			"tag3",
+			"tag4"
+		],
+		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906365833378/Wallpaper.png",
+		"imgAlt": "some bird I found on Google",
+		"buttons": [
+			{
+				"label": "Button 1",
+				"href": "https://google.com"
+			}
+		],
+		"bg": "#000000"
+	}
+]

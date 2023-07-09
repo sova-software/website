@@ -10,22 +10,27 @@
 	//  -> Local imports
 	import DesktopNavBar from '$lib/components/navbar/DesktopNavBar.svelte';
 	import { scrollStore } from '$lib/stores';
+	import MobileNavBar from '$lib/components/navbar/MobileNavBar.svelte';
 </script>
 
-<AppShell on:scroll={(e) => {
-	scrollStore.set({
-		x: e.currentTarget.scrollLeft,
-		y: e.currentTarget.scrollTop
-	});
-}}>
-	<svelte:fragment slot="header">
-		<DesktopNavBar />
-	</svelte:fragment>
+<AppShell
+	on:scroll={(e) => {
+		scrollStore.set({
+			x: e.currentTarget.scrollLeft,
+			y: e.currentTarget.scrollTop
+		});
+	}}
+>
+	<!-- (header) -->
 	<!-- (sidebarLeft) -->
 	<!-- (sidebarRight) -->
 	<!-- (pageHeader) -->
 	<!-- Router Slot -->
-	<slot />
+	<DesktopNavBar />
+	<div class="p-4">
+		<slot />
+	</div>
+	<MobileNavBar />
 	<!-- ---- / ---- -->
 	<svelte:fragment slot="pageFooter">Page Footer</svelte:fragment>
 	<!-- (footer) -->
