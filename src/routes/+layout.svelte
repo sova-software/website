@@ -1,10 +1,32 @@
-<script lang='ts'>
-	// The ordering of these imports is critical to your app working properly
+<script lang="ts">
+	//  -> CSS imports
 	import '../theme.css';
-	// If you have source.organizeImports set to true in VSCode, then it will auto change this ordering
 	import '@skeletonlabs/skeleton/styles/skeleton.css';
-	// Most of your app wide CSS should be put in this file
 	import '../app.postcss';
+
+	//  -> Imports
+	import { AppShell } from '@skeletonlabs/skeleton';
+
+	//  -> Local imports
+	import DesktopNavBar from '$lib/components/navbar/DesktopNavBar.svelte';
+	import { scrollStore } from '$lib/stores';
 </script>
 
-<slot />
+<AppShell on:scroll={(e) => {
+	scrollStore.set({
+		x: e.currentTarget.scrollLeft,
+		y: e.currentTarget.scrollTop
+	});
+}}>
+	<svelte:fragment slot="header">
+		<DesktopNavBar />
+	</svelte:fragment>
+	<!-- (sidebarLeft) -->
+	<!-- (sidebarRight) -->
+	<!-- (pageHeader) -->
+	<!-- Router Slot -->
+	<slot />
+	<!-- ---- / ---- -->
+	<svelte:fragment slot="pageFooter">Page Footer</svelte:fragment>
+	<!-- (footer) -->
+</AppShell>
