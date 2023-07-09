@@ -8,10 +8,14 @@
 	import { AppShell } from '@skeletonlabs/skeleton';
 
 	//  -> Local imports
-	import DesktopNavBar from '$lib/components/navbar/DesktopNavBar.svelte';
 	import { scrollStore } from '$lib/stores';
-	import MobileNavBar from '$lib/components/navbar/MobileNavBar.svelte';
+	import Footer from '$lib/components/footer/Footer.svelte';
+	import NavBar from '$lib/components/navbar/NavBar.svelte';
 </script>
+
+<svelte:head>
+	<title>Sova</title>
+</svelte:head>
 
 <AppShell
 	on:scroll={(e) => {
@@ -26,12 +30,15 @@
 	<!-- (sidebarRight) -->
 	<!-- (pageHeader) -->
 	<!-- Router Slot -->
-	<DesktopNavBar />
-	<div class="p-4">
+	<div class="p-4 min-h-screen md:pt-24">
 		<slot />
 	</div>
-	<MobileNavBar />
+	<NavBar />
 	<!-- ---- / ---- -->
-	<svelte:fragment slot="pageFooter">Page Footer</svelte:fragment>
+	<svelte:fragment slot="pageFooter">
+		<footer class="pb-24 md:pb-4 p-4 bg-surface-900">
+			<Footer />
+		</footer>
+	</svelte:fragment>
 	<!-- (footer) -->
 </AppShell>

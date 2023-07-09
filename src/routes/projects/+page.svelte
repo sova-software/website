@@ -2,6 +2,7 @@
 	//  -> Imports
 	import { ProgressRadial } from '@skeletonlabs/skeleton';
 	import { onMount } from 'svelte';
+	import { blur } from 'svelte/transition';
 
 	//  -> Variables
 	let fileData: {
@@ -31,7 +32,11 @@
 	</div>
 {:then}
 	{#each fileData as { title, description, tags, image, imgAlt, buttons, bg }, i}
-		<section class="mx-auto grid max-w-screen-xl gap-8 md:grid-cols-2 lg:grid-cols-3 p-2 my-4 shadow-lg rounded-container-token" style="background-color: {bg};">
+		<section
+			class="mx-auto grid max-w-screen-xl gap-8 md:grid-cols-2 lg:grid-cols-3 p-2 my-4 shadow-lg rounded-container-token"
+			style="background-color: {bg};"
+			in:blur={{ delay: 100 * i }}
+		>
 			{#if !(i % 2)}
 				<img alt={imgAlt} src={image} width="720" height="600" />
 			{/if}
@@ -42,9 +47,17 @@
 					{description}
 				</p>
 
+				<div class="mt-2 flex gap-1">
+					{#each tags as tag}
+						<span class="chip variant-filled-surface">{tag}</span>
+					{/each}
+				</div>
+
 				<div class="mt-4 flex gap-4">
 					{#each buttons as { label, href }, i}
-						<a class="btn {i === 0 ? 'variant-filled-primary' : 'variant-ghost-secondary'}" {href}>{label}</a>
+						<a class="btn {i === 0 ? 'variant-filled-primary' : 'variant-ghost-primary'}" {href}
+							>{label}</a
+						>
 					{/each}
 				</div>
 			</div>
