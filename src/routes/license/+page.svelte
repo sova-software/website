@@ -24,7 +24,7 @@
 </script>
 
 <div class="mx-auto max-w-xl flex flex-col gap-4">
-	<h1 class="h1 text-center">Licenses and attributions</h1>
+	<h1 class="h1 text-center">Here's the legal stuff</h1>
 
 	<Accordion autocollapse>
 		{#await promFileData}
