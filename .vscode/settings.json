@@ -103,5 +103,6 @@
 		"width",
 		"zIndex"
 	],
-	"editor.wordBasedSuggestions": true
+	"editor.wordBasedSuggestions": true,
+	"typescript.tsdk": "node_modules/typescript/lib"
 }
