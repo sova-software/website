@@ -4,25 +4,16 @@
 	import { goto } from '$app/navigation';
 	import { browser } from '$app/environment';
 
-	//  -> Local imports
-	import { scrollStore } from '$lib/stores';
-	import { page } from '$app/stores';
-
 	//  -> Internal Variables
-	let tab = $page.route.id || '/';
+	let tab = '/';
 
 	//  -> Reactivity
 	$: if (browser) goto(tab);
 </script>
 
-<nav
-	class="hidden sticky top-0 p-8 md:flex items-center transition-colors duration-300 {$scrollStore.y >
-	0
-		? 'variant-glass-surface shadow-lg'
-		: ''}"
->
-	<a href="/" on:click={() => (tab = '/')}>
-		<img src="/sova.svg" alt="Sova logo" />
+<nav class="md:hidden sticky bottom-0 p-2 flex items-center transition-colors duration-300 variant-glass-surface">
+	<a href="/">
+		<img src="/s.svg" alt="Sova logo" />
 	</a>
 	<RadioGroup class="ml-auto" fill="variant-filled-primary">
 		<RadioItem bind:group={tab} name="justify" value="/">Sova</RadioItem>
