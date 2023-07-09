@@ -8,7 +8,7 @@
 </script>
 
 <nav
-	class="nav"
+	class="z-[999] p-2 flex items-center transition-colors duration-300 variant-ghost-surface variant-glass-surface mx-auto w-fit gap-2 rounded-token fixed left-4 right-4 bottom-4 md:bottom-auto md:left-4 md:right-4 md:top-4"
 >
 	<a href="/" class="w-20">
 		<img src="/sova.svg" alt="Sova logo" />
