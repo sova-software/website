@@ -101,6 +101,21 @@
 		]
 	},
 	{
+		"name": "dripbert",
+		"username": "dripbert",
+		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127934094190321754/image.png",
+		"buttons": [
+			{
+				"label": "GitHub",
+				"href": "https://github.com/dripbert"
+			},
+			{
+				"label": "Telegram",
+				"href": "https://t.me/dripbert"
+			}
+		]
+	},
+	{
 		"name": "Phenrir",
 		"username": "itsphenrir",
 		"image": "https://cdn.discordapp.com/avatars/836877858496184320/36e928fb0649a0c1086b8d49430c9e7b.webp",
