@@ -30,17 +30,13 @@
 		]
 	},
 	{
-		"name": "Java",
-		"username": "javtheslav",
-		"image": "https://avatars.githubusercontent.com/u/80885806",
+		"name": "Tizu",
+		"username": "tizu69",
+		"image": "https://cdn.discordapp.com/avatars/805510183736049684/c62a2c6e7ee0d420c271204928359d31.webp",
 		"buttons": [
 			{
 				"label": "GitHub",
-				"href": "https://github.com/javtheslav"
-			},
-			{
-				"label": "Telegram",
-				"href": "https://t.me/javtheslav"
+				"href": "https://github.com/tizu69"
 			}
 		]
 	},
@@ -86,6 +82,36 @@
 			{
 				"label": "Telegram",
 				"href": "https://t.me/kristiannotfound"
+			}
+		]
+	},
+	{
+		"name": "Java",
+		"username": "javtheslav",
+		"image": "https://avatars.githubusercontent.com/u/80885806",
+		"buttons": [
+			{
+				"label": "GitHub",
+				"href": "https://github.com/javtheslav"
+			},
+			{
+				"label": "Telegram",
+				"href": "https://t.me/javtheslav"
+			}
+		]
+	},
+	{
+		"name": "Phenrir",
+		"username": "itsphenrir",
+		"image": "https://cdn.discordapp.com/avatars/836877858496184320/36e928fb0649a0c1086b8d49430c9e7b.webp",
+		"buttons": [
+			{
+				"label": "Discord",
+				"href": "https://discord.com/users/836877858496184320"
+			},
+			{
+				"label": "Twitter",
+				"href": "https://twitter.com/ItsPhenrir"
 			}
 		]
 	}
