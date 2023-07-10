@@ -40,7 +40,7 @@
 			{#if !(i % 2)}
 				<img alt={imgAlt} src={image} width="720" height="600" />
 			{/if}
-			<div class="flex flex-col items-center md:items-start lg:col-span-2">
+			<div class="flex flex-col items-center md:items-start lg:col-span-2" style="margin: 5px 7px 7px;">
 				<h2 class="h2">{title}</h2>
 
 				<p class="mt-2 text-sm text-gray-400">
