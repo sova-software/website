@@ -1,9 +1,8 @@
 <script lang="ts">
 	//  -> Imports
-	import { RadioGroup, RadioItem, TabAnchor, TabGroup } from '@skeletonlabs/skeleton';
+	import { TabAnchor, TabGroup } from '@skeletonlabs/skeleton';
 
 	//  -> Local imports
-	import { scrollStore } from '$lib/stores';
 	import { page } from '$app/stores';
 </script>
 
