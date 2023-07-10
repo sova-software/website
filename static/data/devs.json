@@ -1,571 +1,91 @@
 [
 	{
-		"name": "John Doe",
-		"username": "johndoe",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
+		"name": "Mitko",
+		"username": "MitkoYT",
+		"image": "https://cdn.discordapp.com/avatars/467391562301571083/d4d3a73b9869976b26f60036007d1041.webp",
 		"buttons": [
 			{
-				"label": "Portfolio",
-				"href": "https://johndoeportfolio.com"
+				"label": "GitHub",
+				"href": "https://github.com/usarana"
 			},
 			{
-				"label": "GitHub",
-				"href": "https://github.com/johndoe"
+				"label": "Telegram",
+				"href": "https://t.me/MitkoYT"
 			}
 		]
 	},
 	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
+		"name": "Fakie",
+		"username": "fakethefakerftf",
+		"image": "https://cdn.discordapp.com/avatars/735500832287752294/e86ce9d1b7971e5e035b1b80b9db564c.webp",
 		"buttons": [
 			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
+				"label": "GitHub",
+				"href": "https://github.com/Projectmaster122"
 			},
 			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
+				"label": "Telegram",
+				"href": "https://t.me/fakethefakerftf"
 			}
 		]
 	},
 	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
+		"name": "Java",
+		"username": "javtheslav",
+		"image": "https://avatars.githubusercontent.com/u/80885806",
 		"buttons": [
 			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
+				"label": "GitHub",
+				"href": "https://github.com/javtheslav"
 			},
 			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
+				"label": "Telegram",
+				"href": "https://t.me/javtheslav"
 			}
 		]
 	},
 	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
+		"name": "Bumblebee",
+		"username": "Bumblebee437",
+		"image": "https://cdn.discordapp.com/avatars/1004394164177350847/2e07b1db98c14a23feac26fcb536d715.webp",
 		"buttons": [
 			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
+				"label": "GitHub",
+				"href": "https://github.com/bumbelbee777"
 			},
 			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
+				"label": "Telegram",
+				"href": "https://t.me/Bumblebee437"
 			}
 		]
 	},
 	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
+		"name": "Boro",
+		"username": "BoroMoro",
+		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127889050993434735/photo_2021-04-05_21-06-38.jpg",
 		"buttons": [
 			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
+				"label": "Telegram",
+				"href": "https://t.me/BoroMoro"
 			},
 			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
+				"label": "Discord",
+				"href": "https://discord.com/users/371351698813353994"
 			}
 		]
 	},
 	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
+		"name": "kris",
+		"username": "kristiannotfound",
+		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127892700490903552/photo_2023-07-10_12-21-41.jpg",
 		"buttons": [
 			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
+				"label": "GitHub",
+				"href": "https://github.com/kristianthekot"
 			},
 			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
-			}
-		]
-	},
-	{
-		"name": "Jane Smith",
-		"username": "janesmith",
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"buttons": [
-			{
-				"label": "Portfolio",
-				"href": "https://janesmithportfolio.com"
-			},
-			{
-				"label": "GitHub",
-				"href": "https://github.com/janesmith"
+				"label": "Telegram",
+				"href": "https://t.me/kristiannotfound"
 			}
 		]
 	}
