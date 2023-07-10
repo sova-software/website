@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Fakie",
-		"username": "fakethefakerftf",
+		"username": "fakietf",
 		"image": "https://cdn.discordapp.com/avatars/735500832287752294/e86ce9d1b7971e5e035b1b80b9db564c.webp",
 		"buttons": [
 			{
@@ -24,8 +24,8 @@
 				"href": "https://github.com/Projectmaster122"
 			},
 			{
-				"label": "Telegram",
-				"href": "https://t.me/fakethefakerftf"
+				"label": "Discord",
+				"href": "https://discord.com/users/735500832287752294"
 			}
 		]
 	},
