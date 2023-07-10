@@ -1,8 +1,8 @@
-# sovasoftware.net
+# [sovasoftware.net](sovasoftware.net)
 
 Official repository for the sovasoftware.net website.
 
-## contributing
+## Contributing
 
 1. Open issue mentioning what you'd like to fix/add.
 2. Commit to your fork, feature by feature (or bug by bug). If you feel like it, add some emojis for fun.
