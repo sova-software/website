@@ -129,19 +129,5 @@
 				"href": "https://twitter.com/ItsPhenrir"
 			}
 		]
-	},
-	{
-		"name": "The 10th?",
-		"username": "undefined",
-		"buttons": [
-			{
-				"label": "Undefined?",
-				"href": "https://sovasoftware.net"
-			},
-			{
-				"label": "Undefined",
-				"href": "https://sovasoftware.net"
-			}
-		]
 	}
 ]
