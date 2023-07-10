@@ -1,32 +1,28 @@
 [
 	{
-		"title": "Card 1",
-		"description": "This is the first card. long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text",
-		"tags": ["tag1", "tag2"],
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906076434492/sticker.webp",
-		"imgAlt": "some bird I found on Google",
+		"title": "Sova Studio",
+		"description": "A new coding environment developed by Sova purely in C#. It will allow you to make projects in the Visual Basic, C# and C++ programming languages, compile and debug them, and more.",
+		"tags": ["ide", "c#"],
+		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127897178124337232/image.png",
+		"imgAlt": "Sova Studio in development",
 		"buttons": [
 			{
-				"label": "Button 1",
-				"href": "https://google.com"
-			},
-			{
-				"label": "Button 2",
-				"href": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+				"label": "In development",
+				"href": "#"
 			}
 		],
 		"bg": "#333333"
 	},
 	{
-		"title": "Card 2",
-		"description": "This is the second card - long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text",
-		"tags": ["tag3", "tag4"],
-		"image": "https://cdn.discordapp.com/attachments/1058430318018822286/1127615906365833378/Wallpaper.png",
-		"imgAlt": "some bird I found on Google",
+		"title": "Sova Player",
+		"description": "A media player also made in pure C#. ",
+		"tags": ["media", "c#"],
+		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127904925150629949/image.png",
+		"imgAlt": "Upcoming",
 		"buttons": [
 			{
-				"label": "Button 1",
-				"href": "https://google.com"
+				"label": "In development",
+				"href": "#"
 			}
 		],
 		"bg": "#000000"
