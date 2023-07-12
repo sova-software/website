@@ -2,7 +2,7 @@
 	{
 		"name": "Mitko",
 		"username": "MitkoYT",
-		"image": "https://cdn.discordapp.com/avatars/467391562301571083/d4d3a73b9869976b26f60036007d1041.webp",
+		"image": "/img/mitko.jpg",
 		"buttons": [
 			{
 				"label": "GitHub",
@@ -17,7 +17,7 @@
 	{
 		"name": "Fakie",
 		"username": "fakietf",
-		"image": "https://cdn.discordapp.com/avatars/735500832287752294/e86ce9d1b7971e5e035b1b80b9db564c.webp",
+		"image": "/img/fakie.jpg",
 		"buttons": [
 			{
 				"label": "GitHub",
@@ -32,7 +32,7 @@
 	{
 		"name": "Tizu",
 		"username": "tizu69",
-		"image": "https://cdn.discordapp.com/avatars/805510183736049684/c62a2c6e7ee0d420c271204928359d31.webp",
+		"image": "/img/tizu.jpg",
 		"buttons": [
 			{
 				"label": "GitHub",
@@ -43,7 +43,7 @@
 	{
 		"name": "Bumblebee",
 		"username": "Bumblebee437",
-		"image": "https://cdn.discordapp.com/avatars/1004394164177350847/2e07b1db98c14a23feac26fcb536d715.webp",
+		"image": "/img/bumblebee.jpg",
 		"buttons": [
 			{
 				"label": "GitHub",
@@ -58,7 +58,7 @@
 	{
 		"name": "Boro",
 		"username": "BoroMoro",
-		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127889050993434735/photo_2021-04-05_21-06-38.jpg",
+		"image": "/img/boro.jpg",
 		"buttons": [
 			{
 				"label": "Telegram",
@@ -73,7 +73,7 @@
 	{
 		"name": "kris",
 		"username": "kristiannotfound",
-		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127892700490903552/photo_2023-07-10_12-21-41.jpg",
+		"image": "/img/kris.jpg",
 		"buttons": [
 			{
 				"label": "GitHub",
@@ -88,7 +88,7 @@
 	{
 		"name": "Java",
 		"username": "javtheslav",
-		"image": "https://avatars.githubusercontent.com/u/80885806",
+		"image": "/img/java.jpg",
 		"buttons": [
 			{
 				"label": "GitHub",
@@ -103,7 +103,7 @@
 	{
 		"name": "dripbert",
 		"username": "dripbert",
-		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127935832779673711/photo_2022-02-12_11-28-09.jpg",
+		"image": "/img/dripbert.jpg",
 		"buttons": [
 			{
 				"label": "GitHub",
@@ -118,7 +118,7 @@
 	{
 		"name": "Phenrir",
 		"username": "itsphenrir",
-		"image": "https://cdn.discordapp.com/avatars/836877858496184320/36e928fb0649a0c1086b8d49430c9e7b.webp",
+		"image": "/img/phenrir.jpg",
 		"buttons": [
 			{
 				"label": "Discord",
