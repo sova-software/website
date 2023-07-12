@@ -3,7 +3,7 @@
 		"title": "Sova Studio",
 		"description": "A new coding environment developed by Sova purely in C#. It will allow you to make projects in the Visual Basic, C# and C++ programming languages, compile and debug them, and more.",
 		"tags": ["ide", "c#"],
-		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127897178124337232/image.png",
+		"image": "/img/sovastudio.png",
 		"imgAlt": "Sova Studio in development",
 		"buttons": [
 			{
@@ -17,7 +17,7 @@
 		"title": "Sova Player",
 		"description": "A media player also made in pure C#. ",
 		"tags": ["media", "c#"],
-		"image": "https://cdn.discordapp.com/attachments/467406342479675402/1127904925150629949/image.png",
+		"image": "/img/upcoming.png",
 		"imgAlt": "Upcoming",
 		"buttons": [
 			{
