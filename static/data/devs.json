@@ -15,21 +15,6 @@
 		]
 	},
 	{
-		"name": "Fakie",
-		"username": "fakietf",
-		"image": "/img/fakie.jpg",
-		"buttons": [
-			{
-				"label": "GitHub",
-				"href": "https://github.com/Projectmaster122"
-			},
-			{
-				"label": "Discord",
-				"href": "https://discord.com/users/735500832287752294"
-			}
-		]
-	},
-	{
 		"name": "Tizu",
 		"username": "tizu69",
 		"image": "/img/tizu.jpg",
