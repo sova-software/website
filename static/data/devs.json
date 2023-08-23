@@ -30,17 +30,6 @@
 		]
 	},
 	{
-		"name": "Tizu",
-		"username": "tizu69",
-		"image": "/img/tizu.jpg",
-		"buttons": [
-			{
-				"label": "GitHub",
-				"href": "https://github.com/tizu69"
-			}
-		]
-	},
-	{
 		"name": "Bumblebee",
 		"username": "Bumblebee437",
 		"image": "/img/bumblebee.jpg",
