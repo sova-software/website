@@ -101,6 +101,6 @@
 		"width",
 		"zIndex"
 	],
-	"editor.wordBasedSuggestions": true,
+	"editor.wordBasedSuggestions": "matchingDocuments",
 	"typescript.tsdk": "node_modules/typescript/lib"
 }

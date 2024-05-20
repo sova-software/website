@@ -118,5 +118,20 @@
 				"href": "https://twitter.com/ItsPhenrir"
 			}
 		]
+	},
+	{
+		"name": "Bahar",
+		"username": "bahar",
+		"image": "/img/bahar.png",
+		"buttons": [
+			{
+				"label": "Discord",
+				"href": "https://discord.com/users/836877858496184320"
+			},
+			{
+				"label": "Email",
+				"href": "mailto:bahar@sovasoftware.net"
+			}
+		]
 	}
 ]
