@@ -45,22 +45,7 @@
 		]
 	},
 	{
-		"name": "Boro",
-		"username": "BoroMoro",
-		"image": "/img/boro.jpg",
-		"buttons": [
-			{
-				"label": "Telegram",
-				"href": "https://t.me/BoroMoro"
-			},
-			{
-				"label": "Discord",
-				"href": "https://discord.com/users/371351698813353994"
-			}
-		]
-	},
-	{
-		"name": "kris",
+		"name": "Kris",
 		"username": "kristiannotfound",
 		"image": "/img/kris.jpg",
 		"buttons": [
@@ -86,21 +71,6 @@
 			{
 				"label": "Telegram",
 				"href": "https://t.me/javtheslav"
-			}
-		]
-	},
-	{
-		"name": "dripbert",
-		"username": "dripbert",
-		"image": "/img/dripbert.jpg",
-		"buttons": [
-			{
-				"label": "GitHub",
-				"href": "https://github.com/dripbert"
-			},
-			{
-				"label": "Telegram",
-				"href": "https://t.me/dripbert"
 			}
 		]
 	},
